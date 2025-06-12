@@ -1,6 +1,6 @@
 # Tools for Bug Bounty
 
-_**⚠️Only use these tools on authorized targets⚠️**_
+_**⚠️Use these tools only on authorized systems⚠️**_
 
 ---
 
