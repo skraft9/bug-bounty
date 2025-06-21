@@ -10,22 +10,22 @@ _⚠️For research and authorized testing only. Please do not use against syste
 
 ---
 
-1️⃣ Use any text editor to create a new file (using nano for this example)
+- Use any text editor to create a new file (using nano for this example)
 
 `nano recon.sh`
 
-2️⃣ Paste in the contents of the script from `recon.sh`
+-  Paste in the contents of the script from `recon.sh`
 
-3️⃣ Assign the file executable rights
+-  Assign the file executable rights
 
 `sudo chmod +x`
 
-4️⃣Execute bash script
+-  Execute bash script
 
 `./recon.sh`
 
-5️⃣Enter the target domain
+-  Enter the target domain
 
 Review the responses from the web servers.
 
-_httpx-toolkit is configured to follow re-directs_
+> Note: `httpx-toolkit` is configured to follow re-directs.
