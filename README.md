@@ -1,6 +1,6 @@
 # Tools for Bug Bounty
 
-_**⚠️Use these tools only on authorized systems⚠️**_
+_⚠️For research and authorized testing only. Please do not use against systems without permission._
 
 ---
 
