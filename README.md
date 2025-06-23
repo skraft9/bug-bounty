@@ -1,4 +1,4 @@
-# Tools for Bug Bounty
+# Tools for Cybersecurity Research
 
 _⚠️For research and authorized testing only. Please do not use against systems without permission._
 
